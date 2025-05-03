@@ -1,0 +1,55 @@
+{
+	"identifier": "wcUlfpQZrKSH6iINSOy8V4AO",
+	"handler_id": "takochanmam",
+	"name": "たこちゃん",
+	"cover": null,
+	"icon": "icon.jpg",
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@takochandayo"
+		},
+		{
+			"title": "X",
+			"url": "https://x.com/takochanmam"
+		},
+		{
+			"title": "BOOTH",
+			"url": "https://takochandayo.booth.pm/"
+		},
+		{
+			"title": "Twitch",
+			"url": "https://www.twitch.tv/takochan0208"
+		},
+		{
+			"title": "マシュマロ",
+			"url": "https://marshmallow-qa.com/bxjc1iir25j5z5z"
+		},
+		{
+			"title": "pixivFANBOX",
+			"url": "https://takochandayo.fanbox.cc/"
+		},
+		{
+			"title": "lit.link",
+			"url": "https://lit.link/en/takochandayo"
+		}
+	],
+	"tags": [
+		"たこちゃんズ",
+		"描いたこれ",
+		"たこクリップ",
+		"たこ召し",
+		"このたこは漁業組合とは関係ありません"
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

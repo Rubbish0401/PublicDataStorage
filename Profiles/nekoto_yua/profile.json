@@ -1,0 +1,41 @@
+{
+	"identifier": "NcPK87eTYUKhvmJgXVJZlBeP",
+	"handler_id": "nekoto_yua",
+	"name": "音琴夕空(ねことゆあ)",
+	"cover": null,
+	"icon": "icon.jpg",
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@yuayuayua"
+		},
+		{
+			"title": "X",
+			"url": "https://x.com/nekoto_yua"
+		},
+		{
+			"title": "マシュマロ",
+			"url": "https://marshmallow-qa.com/dqaofih7a7s8sb6"
+		},
+		{
+			"title": "lit.link",
+			"url": "https://lit.link/en/nekotoyua"
+		}
+	],
+	"tags": [
+		"ゆあと一緒",
+		"可愛いゆあ",
+		"ぴっくゆあっぷ"
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

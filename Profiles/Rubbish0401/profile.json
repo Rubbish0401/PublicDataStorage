@@ -30,6 +30,10 @@
 		{
 			"title": "マシュマロ",
 			"url": "https://marshmallow-qa.com/btjjy8o3ozjpuku"
+		},
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@Rubbish0401"
 		}
 	],
 	"tags": [
@@ -38,6 +42,6 @@
 	"others": {
 		"verified": true,
 		"related-articles": [],
-		"related-people": ["Dazai_Ram"]
+		"related-people": []
 	}
 }

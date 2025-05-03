@@ -1,0 +1,40 @@
+{
+	"identifier": "UJGaNFftQ2wDkdJFQKRxJRrc",
+	"handler_id": "kawauso-mocha",
+	"name": "獺もちゃ",
+	"icon": "icon.jpg",
+	"comments": [
+		{
+			"id": "Rubbish0401",
+			"comment": "もちゃ。堕罪さんの妹。時々見てる。"
+		},
+		{
+			"id": "Rubbish0401",
+			"comment": "獺はかわうそって読むらしい。"
+		}
+	],
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@kawauso-mocha"
+		},
+		{
+			"title": "𝕏(旧Twitter)",
+			"url": "https://x.com/motimotimo2020"
+		}
+	],
+	"tags": [
+		"RMILM"
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

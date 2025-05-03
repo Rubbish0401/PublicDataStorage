@@ -1,0 +1,58 @@
+{
+	"identifier": "7KNx3XecIvxJAouTHZAgWRIS",
+	"handler_id": "mudenkyo",
+	"name": "無田虚(むだうつろ)",
+	"icon": "icon.jpg",
+	"comments": [
+		{
+			"id": "Rubbish0401",
+			"comment": "高校数学の問題に触れる配信を一定期間していて、そこから見始めた。うつぽよラジオも割と好き。"
+		},
+		{
+			"id": "Rubbish0401",
+			"comment": "なんぎちゃんって名前でVTuber以外の活動をしているらしい。絵を描いたりLive2Dを弄ったり。"
+		}
+	],
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@mudaU26"
+		},
+		{
+			"title": "おさかなチャーハン(サブチャンネル)",
+			"url": "https://www.youtube.com/@OsakanaChahan"
+		},
+		{
+			"title": "𝕏(旧Twitter)",
+			"url": "https://x.com/mudenkyo"
+		},
+		{
+			"title": "Twitch",
+			"url": "https://www.twitch.tv/muda_utsu"
+		},
+		{
+			"title": "マシュマロ",
+			"url": "https://marshmallow-qa.com/utsuro_dayo"
+		},
+		{
+			"title": "なんぎちゃんの𝕏",
+			"url": "https://x.com/nan_gi_dana"
+		},
+		{
+			"title": "Lit.Link",
+			"url": "https://lit.link/en/mudenkyo"
+		}
+	],
+	"tags": [],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

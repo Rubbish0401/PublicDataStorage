@@ -1,0 +1,27 @@
+{
+	"identifier": "英数24桁",
+	"handler_id": "",
+	"name": "",
+	"cover": "",
+	"icon": "",
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "",
+			"url": ""
+		}
+	],
+	"tags": [
+		""
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

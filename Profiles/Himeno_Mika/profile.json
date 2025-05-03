@@ -1,0 +1,40 @@
+{
+	"identifier": "LGUzwZnbLLO6Xi0jyhHPtG4a",
+	"handler_id": "Himeno_Mika",
+	"name": "姫乃美花",
+	"icon": "icon.jpg",
+	"comments": [
+		{
+			"id": "Rubbish0401",
+			"comment": "堕罪さんの妹。YouTube稼働前だけど動画が数本ある。歌ってた。"
+		},
+		{
+			"id": "Rubbish0401",
+			"comment": "今は毎日？なのか𝕏で朝の挨拶をしている。まだ知らないことが多い。"
+		}
+	],
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@Himeno_Mika"
+		},
+		{
+			"title": "𝕏(旧Twitter)",
+			"url": "https://x.com/Himeno_Mika"
+		}
+	],
+	"tags": [
+		"RMILM"
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}

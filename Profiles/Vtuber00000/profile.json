@@ -1,0 +1,47 @@
+{
+	"identifier": "KU6Kr5PGmAy8mdLV7OMsts8x",
+	"handler_id": "Vtuber00000",
+	"name": "鈴ノ音コリン",
+	"cover": null,
+	"icon": "icon.jpg",
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": null
+		}
+	],
+	"links": [
+		{
+			"title": "YouTube",
+			"url": "https://www.youtube.com/@korin-no-suzu"
+		},
+		{
+			"title": "X",
+			"url": "https://x.com/Vtuber00000"
+		},
+		{
+			"title": "pixivFANBOX",
+			"url": "https://korin.fanbox.cc"
+		},
+		{
+			"title": "BOOTH",
+			"url": "https://korin-suzu.booth.pm"
+		},
+		{
+			"title": "マシュマロ",
+			"url": "https://marshmallow-qa.com/husmzqg38cgd377"
+		}
+	],
+	"tags": [
+		"小林さん",
+		"みてコリン",
+		"コリンコリンたいむ",
+		"鈴ノ絵コリン",
+		"ぺコリンコタイム"
+	],
+	"others": {
+		"verified": false,
+		"related-articles": [],
+		"related-people": []
+	}
+}
