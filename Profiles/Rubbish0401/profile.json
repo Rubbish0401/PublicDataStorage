@@ -1,0 +1,71 @@
+{
+	"identifier": "0CgD2Nhya0eE70WhwYTb6CcL",
+	"handler_id": "Rubbish0401",
+	"name": "ゴミ",
+	"cover": "cover.json",
+	"icon": "icon.png",
+	"comments": [
+		{
+			"id": "Rubbish0401",
+			"comment": "このサイトを作った者"
+		},
+		{
+			"id": "Rubbish0401",
+			"comment": "こちらテスト\nテストテストテストテストテストテストテストテスト\n\n段落2\n\n段落3\n\n段落4\n\n段落5\n\n段落7\n\n\n\n\n\n\n\n\n段落8\n\n"
+		},
+		{
+			"id": "Rubbish0401",
+			"comment": [
+				"段落0",
+				"段落1",
+				"段落2",
+				"段落3",
+				"段落4",
+				"段落5",
+				"段落6",
+				"段落7",
+				"段落8",
+				"段落9",
+				"段落10",
+				"段落11",
+				"段落12"
+			]
+		}
+	],
+	"anniversaries": [
+		{
+			"title": "Birthdate",
+			"date": "04/01"
+		},
+		{
+			"title": "Xアカウントの開設",
+			"date": "2024/02/26"
+		}
+	],
+	"links": [
+		{
+			"title": "X",
+			"url": "https://x.com/throw_into_bin"
+		},
+		{
+			"title": "Bluesky",
+			"url": "https://bsky.app/profile/rubbish0401.bsky.social"
+		},
+		{
+			"title": "GitHub",
+			"url": "https://github.com/Rubbish0401"
+		},
+		{
+			"title": "マシュマロ",
+			"url": "https://marshmallow-qa.com/btjjy8o3ozjpuku"
+		}
+	],
+	"tags": [
+		"Admin"
+	],
+	"others": {
+		"verified": true,
+		"related-articles": [],
+		"related-people": ["Dazai_Ram", "skr__usg"]
+	}
+}
